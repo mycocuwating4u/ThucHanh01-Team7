@@ -3,5 +3,5 @@
 © 2025 by [Canva AI](https://www.canva.com/ai-assistant/)  
 is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="20"/>
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" width="20"/>
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" width="20">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" width="20">
